@@ -1,2 +1,0 @@
-# TP
-Toy Project
